@@ -10,3 +10,7 @@ Resulted game included some modifications to the original tutorial, such as:
 - More enemies (reduced spawn time to 0.3s)
 - Better weaponry (added a second fire blast)
 - Improved enemy spawning (enemies cannot be spawned partially passing the scene edge on X-axis)
+
+## Demo
+
+[game_demo.mov](demo%2Fgame_demo.mov)
