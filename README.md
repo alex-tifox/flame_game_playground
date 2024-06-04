@@ -13,4 +13,4 @@ Resulted game included some modifications to the original tutorial, such as:
 
 ## Demo
 
-![Demo](https://github.com/alex-tifox/flame_game_playground/demo/game_demo.gif)
+![Demo](https://github.com/alex-tifox/flame_game_playground/demo/game-demo.gif)
