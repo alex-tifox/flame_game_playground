@@ -11,4 +11,6 @@ Resulted game included some modifications to the original tutorial, such as:
 - Better weaponry (added a second fire blast)
 - Improved enemy spawning (enemies cannot be spawned partially passing the scene edge on X-axis)
 
-## Demo 
+## Demo
+
+![Demo](https://github.com/alex-tifox/flame_game_playground/demo/demo.gif)
